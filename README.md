@@ -27,7 +27,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 # How To install blog managment sytem project First write this command on cmd git bash git clone https://github.com/AliSami6/Blog.git .
 
-## Second check php version in composer.json file, php 8 version is suitable for this project , composer install or composer update write cp .env.example .env in env file database name is blog
-### Third database name as a blog i added blog sql file in database inside sql folder blog.sql
+## Second check php version in composer.json file, php 8 version is suitable for this project , composer install or composer update write cp .env.example .env  after create env file 
+### Third goto env file database name as a blog i added blog sql file in database inside sql folder blog.sql
 #### localhosturl/admin/login this url for admin panel , login username is admin@gmail.com password is 12345678
 ###### user login username is sami17151002@gmail.com and password is 12345678
